@@ -1,0 +1,41 @@
+{
+  "career":{
+    "info":"to work in an enviroment where can i utilize my skills and knowledge"
+  },
+  "education":[
+    {
+      "degree":"B.tech(IT)",
+      "institution":"vignan",
+      "yop":"2020",
+      "percentage":"80"
+    },
+    {
+      "degree":"Inter",
+      "institution":"vignan",
+      "yop":"2016",
+      "percentage":"82"
+    },
+    {
+      "degree":"ssc",
+      "institution":"sri chaitanya techno",
+      "yop":"2014",
+      "percentage":"88"
+    }
+  ],
+  "skills":[
+    {
+      "title":"platforms",
+      "content":"windows,linux"
+
+    },
+    {
+      "title":"programming langauges",
+      "content":"c,c++,python,java,html,js,json"
+    },
+    {
+      "title":"Database",
+      "content":"MYSQL,SQL"
+    }
+  ],
+  "langauges":"telugu,hindi,english"
+}
